@@ -1,0 +1,20 @@
+name: echo_of_the_past
+description: Echo of the Past - pixel puzzle-platformer (beta, level 1)
+publish_to: none
+version: 0.2.0+1
+
+environment:
+  sdk: ^3.4.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flame: ^1.18.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
